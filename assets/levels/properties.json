@@ -1,0 +1,57 @@
+{
+    "level1": {
+        "gates": [[217, 128], [353, 128], [64, 208]],
+        "plates": [[[174, 168], [311, 168]], [[259, 168], [406, 168]], [[176, 264], [112, 168]]],
+        "gate_styles": ["red", "blue", "green"],
+        "gate_types": ["v", "v", "h"],
+        "gate_opens": ["N", "N", "E"],
+        "fire_door": [64, 48],
+        "water_door": [128, 48],
+        "fire_boy": [16, 336],
+        "water_girl": [35, 336]
+    },
+    "level2": {
+        "gates": null,
+        "plates": null,
+        "gate_styles": null,
+        "gate_types": null,
+        "gate_opens": null,
+        "fire_door": [390, 48],
+        "water_door": [330, 48],
+        "fire_boy": [16, 336],
+        "water_girl": [35, 336]
+    },
+    "level3": {
+        "gates": null,
+        "plates": null,
+        "gate_styles": null,
+        "gate_types": null,
+        "gate_opens": null,
+        "fire_door": [80, 64],
+        "water_door": [448, 64],
+        "fire_boy": [448, 64],
+        "water_girl": [80, 64]
+    },
+    "level4": {
+        "gates": [[285, 128]],
+        "plates": [[[190, 168], [390, 168]]],
+        "gate_styles": null,
+        "gate_types": ["v"],
+        "gate_opens": ["N"],
+        "fire_door": [64, 48],
+        "water_door": [128, 48],
+        "fire_boy": [16, 336],
+        "water_girl": [35, 336]
+    },
+    "level5": {
+        "gates": [[310, 80], [190, 80]],
+        "plates": [[[310, 70], [340, 70]], [[190, 70], [220, 70]]],
+        "gate_styles": ["red", "blue"],
+        "gate_types": ["h", "h"],
+        "gate_opens": ["S", "S"],
+        "fire_door": [25, 31],
+        "water_door": [60, 31],
+        "fire_boy": [480, 16],
+        "water_girl": [500, 16]
+    }
+}
