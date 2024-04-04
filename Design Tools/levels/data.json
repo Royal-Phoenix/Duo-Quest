@@ -1,0 +1,174 @@
+{
+    "screen_textures": {
+        "2": {
+            "name": "Lava",
+            "info": "Lava is a red substance that is safe for Fireboy but not for Watergirl."
+        },
+        "3": {
+            "name": "Water",
+            "info": "Water is a blue substance that is safe for Watergirl but not for Fireboy."
+        },
+        "4": {
+            "name": "Toxic",
+            "info": "Toxic is a green substance that is not safe for both Fireboy and Watergirl."
+        },
+        "21" : {
+            "name": "Fire Gem",
+            "info": ""
+        },
+        "31": {
+            "name": "Water Gem",
+            "info": ""
+        },
+        "41": {
+            "name": "Life Gem",
+            "info": ""
+        },
+        "100": {
+            "name": "Wall - 0000",
+            "info": ""
+        },
+        "111": {
+            "name": "Wall - 1000",
+            "info": ""
+        },
+        "112": {
+            "name": "Wall - 0100",
+            "info": ""
+        },
+        "113": {
+            "name": "Wall - 0001",
+            "info": ""
+        },
+        "114": {
+            "name": "Wall - 0010",
+            "info": ""
+        },
+        "121": {
+            "name": "Wall - 1100",
+            "info": ""
+        },
+        "122": {
+            "name": "Wall - 0101",
+            "info": ""
+        },
+        "123": {
+            "name": "Wall - 0011",
+            "info": ""
+        },
+        "124": {
+            "name": "Wall - 1010",
+            "info": ""
+        },
+        "125": {
+            "name": "Wall - 1001",
+            "info": ""
+        },
+        "126": {
+            "name": "Wall - 0110",
+            "info": ""
+        },
+        "131": {
+            "name": "Wall - 1101",
+            "info": ""
+        },
+        "132": {
+            "name": "Wall - 0111",
+            "info": ""
+        },
+        "133": {
+            "name": "Wall - 1011",
+            "info": ""
+        },
+        "134": {
+            "name": "Wall - 1110",
+            "info": ""
+        },
+        "140": {
+            "name": "Wall - 1111",
+            "info": ""
+        }
+    },
+    "objects": {
+        "ball" : {
+            "name": "Ball",
+            "info": ""
+        },
+        "block" : {
+            "name": "Block",
+            "info": ""
+        },
+        "chain" : {
+            "name": "Chain",
+            "info": ""
+        },
+        "hgate" : {
+            "name": "Horizontal Gate",
+            "info": ""
+        },
+        "hslider" : {
+            "name": "Horizontal Slider",
+            "info": ""
+        },
+        "plate" : {
+            "name": "Plate",
+            "info": ""
+        },
+        "press" : {
+            "name": "Press",
+            "info": ""
+        },
+        "vgate": {
+            "name": "Vertical Gate",
+            "info": ""
+        },
+        "vslider" : {
+            "name": "Vertical Slider",
+            "info": ""
+        }
+    },
+    "players": {
+        "fire_boy" : {
+            "name": "Fire Boy",
+            "info": "Fire Boy is red."
+        },
+        "fire_boy_left": {
+            "name": "Fire Boy - Left",
+            "info": ""
+        },
+        "fire_boy_right": {
+            "name": "Fire Boy Right",
+            "info": ""
+        },
+        "water_girl" : {
+            "name": "Water Girl",
+            "info": ""
+        },
+        "water_girl_left": {
+            "name": "Water Girl Left",
+            "info": ""
+        },
+        "water_girl_right": {
+            "name": "Water Girl Right",
+            "info": ""
+        }
+    },
+    "doors": {
+        "door_background": {
+            "name": "Door Background",
+            "info": ""
+        },
+        "door_frame" : {
+            "name": "Door Frame",
+            "info": ""
+        },
+        "fire_door": {
+            "name": "Fire Door",
+            "info": ""
+        },
+        "water_door": {
+            "name": "Water Door",
+            "info": ""
+        }
+    }
+}
